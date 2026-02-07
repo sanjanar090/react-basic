@@ -31,6 +31,8 @@ function App() {
       <p>
         Welcome to my React Git learning project
       </p>
+      <p> what is this react new feature </p>
+      <p> Hello</p>
     </>
   )
 }
