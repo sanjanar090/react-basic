@@ -16,5 +16,6 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 Learning Git with a React project
-- ReactJS (also known as React or React.js) is an open-source JavaScript library for building user interfaces (UI), particularly for single-page applications (SPAs). Developed by Facebook (now Meta) in 2011 and released to the public in 2013, it is widely used to create dynamic, fast, and scalable front-end experiences for both web and mobile platforms (via React Native). 
+- ReactJS (also known as React or React.js) is an open-source JavaScript library for building user interfaces (UI), particularly for single-page applications (SPAs). Developed by Facebook (now Meta) in 2011 and released to the public in 2013, it is widely used to create dynamic, fast, and scalable front-end experiences for both web and mobile platforms (via React Native).
+- Components: The UI is broken down into reusable, encapsulated components that manage their own state.
 
